@@ -1,0 +1,14 @@
+{
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": { "Application\\": "Application/" }
+    },
+    "require": {
+        "colibri-fw/console": "dev-master",
+        "colibri-fw/config": "dev-master",
+        "nepda/youtrack-client": "dev-master",
+        "chobie/jira-api-restclient": "^2.0@dev",
+        "lesstif/php-jira-rest-client": "dev-master",
+        "nesbot/carbon": "^2.0@dev"
+    }
+}
